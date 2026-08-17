@@ -3,7 +3,6 @@
 **Software engineer** building real‑time multiplayer systems, full‑stack platforms and cloud infrastructure.
 Currently an **RPA & AI Engineer Intern at H‑E‑B**, replacing manual back‑office steps with Power Automate workflows and folding AI‑assisted document handling into them.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-luis--hernandez.vercel.app-ff7847?style=flat-square&logo=vercel&logoColor=white)](https://luis-hernandez.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-hernandez-79b108141/)
 [![Email](https://img.shields.io/badge/Email-luisitol2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisitol2006@gmail.com)
 
@@ -25,8 +24,8 @@ That's the part I find interesting, and it's where I've learned the most — aut
 | **[Matching](https://github.com/oft24/Matching)** | Matchmaking platform for players. Profiles cover games, rank and play style, and a dedicated FastAPI service scores how compatible two people actually are — so the algorithm can change without redeploying the API. | React 19 · Express 5 · Prisma · PostgreSQL · FastAPI | [Open →](https://matching-2.vercel.app) |
 | **[Inventory System on AWS](https://github.com/oft24/sistema-inventario-aws)** | Stock control API over an append‑only movement log, with automatic alerts when a product drops below its minimum. Containerised on EC2 against managed RDS MySQL, then load tested to find where it actually breaks. | Python · Flask · MySQL · Docker · AWS EC2/RDS | — |
 | **[Monolith → Microservices](https://github.com/oft24/luis-hdz-microservicios)** | A registration system split into two services over HTTP to test what really happens when half of it goes down. It degraded instead of failing: registrations were still accepted and stored. | JavaScript · Python · Docker Compose · AWS EC2 | — |
-| **[Therapy Practice Website](https://github.com/oft24/PsyPage)** | Client site for a private psychotherapy practice, with appointment booking backed by Supabase, WhatsApp handoff for enquiries and email notification when a slot is taken. | Python · Flask · Supabase · Pytest | — |
-| **Portfolio** | My own site — Flask and Jinja on the server, hand‑written CSS and vanilla JS on the client. Every word and project comes from two JSON files; it renders completely with JavaScript disabled. | Python · Flask · Jinja · Vanilla JS · Vercel | [Visit →](https://luis-hernandez.vercel.app) |
+| **Therapy Practice Website** | Client site for a private psychotherapy practice, with appointment booking backed by Supabase, WhatsApp handoff for enquiries and email notification when a slot is taken. | Python · Flask · Supabase · Pytest | — |
+| **[BuldakShop](https://github.com/oft24/Bbldak)** | Product catalog and ordering experience built for a friend who sells Buldak products. It combines a multilingual 3D showroom, detailed preparation guidance, Supabase-backed inventory, a persistent cart and demo checkout. | Python · Flask · Supabase · Vanilla JS · Vercel | [Open app →](https://buldakshop.vercel.app/) |
 
 > My RPA work at H‑E‑B isn't public — attended and unattended automations across enterprise systems, with proper error handling, logging and retries. Happy to talk through the approach.
 
@@ -78,6 +77,7 @@ That's the part I find interesting, and it's where I've learned the most — aut
 
 ### Currently
 
+-  Building **BuldakShop** for a friend who sells Buldak products, refining the catalog, product guidance and ordering flow.
 -  Shipping **Bomb It** — the next piece is moving the casino wager onto the game server so a modified client can't bypass it.
 -  Tuning the compatibility scoring in **Matching** now that it lives in its own service.
 -  Automating enterprise processes at **H‑E‑B**, and writing Python utilities for validation and reporting around them.
@@ -91,4 +91,3 @@ I'm open to **internships, junior engineering roles and freelance automation wor
 
 [![Email](https://img.shields.io/badge/luisitol2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisitol2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-hernandez-79b108141/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff7847?style=flat-square&logo=vercel&logoColor=white)](https://luis-hernandez.vercel.app)
