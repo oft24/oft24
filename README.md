@@ -78,10 +78,10 @@ That's the part I find interesting, and it's where I've learned the most — aut
 
 ### Currently
 
-- 🔨 Shipping **Bomb It** — the next piece is moving the casino wager onto the game server so a modified client can't bypass it.
-- 🧪 Tuning the compatibility scoring in **Matching** now that it lives in its own service.
-- 🤖 Automating enterprise processes at **H‑E‑B**, and writing Python utilities for validation and reporting around them.
-- 💬 Working in English and Spanish.
+-  Shipping **Bomb It** — the next piece is moving the casino wager onto the game server so a modified client can't bypass it.
+-  Tuning the compatibility scoring in **Matching** now that it lives in its own service.
+-  Automating enterprise processes at **H‑E‑B**, and writing Python utilities for validation and reporting around them.
+-  Working in English and Spanish.
 
 ---
 
