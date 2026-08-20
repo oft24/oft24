@@ -4,7 +4,7 @@
 Currently an **RPA & AI Engineer Intern at H‑E‑B**, replacing manual back‑office steps with Power Automate workflows and folding AI‑assisted document handling into them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-hernandez-79b108141/)
-[![Email](https://img.shields.io/badge/Email-luisitol2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisitol2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lhvz2424@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisitol2006@gmail.com)
 
 ---
 
@@ -89,5 +89,5 @@ That's the part I find interesting, and it's where I've learned the most — aut
 
 I'm open to **internships, junior engineering roles and freelance automation work**. Email is the fastest way to reach me.
 
-[![Email](https://img.shields.io/badge/luisitol2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisitol2006@gmail.com)
+[![Email](https://img.shields.io/badge/lhvz2424@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisitol2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-hernandez-79b108141/)
