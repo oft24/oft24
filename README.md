@@ -20,7 +20,7 @@ That's the part I find interesting, and it's where I've learned the most — aut
 
 | Project | What it is | Stack | Live |
 | --- | --- | --- | --- |
-| **[Bomb It](https://github.com/oft24/bomb-it-)** | Competitive multiplayer minesweeper racing. Up to 30 players get the exact same board from one server‑side seed — first to clear it clean wins. Five mistakes cost you time; the sixth wipes your board. A `RANDOM` preset turns every cell action into a wager against blackjack, roulette or dice. | TypeScript · Next.js · Socket.IO · Prisma · Supabase | [Play →](https://sector-zero-blush.vercel.app) |
+| **[LAAutomate](https://github.com/oft24/LAAutomate)** | Desktop RPA platform where an automation is Python, not boxes on a canvas. Cron, watched-folder and webhook triggers, run history, a log per automation and a screenshot at the moment it fails. A recorder turns clicks in any Windows app into the code that reproduces them — and never records a password: those stay in the Windows credential store. | Python · PySide6 · Selenium · pywinauto · SQLite | — |
 | **[Matching](https://github.com/oft24/Matching)** | Matchmaking platform for players. Profiles cover games, rank and play style, and a dedicated FastAPI service scores how compatible two people actually are — so the algorithm can change without redeploying the API. | React 19 · Express 5 · Prisma · PostgreSQL · FastAPI | [Open →](https://matching-2.vercel.app) |
 | **[Inventory System on AWS](https://github.com/oft24/sistema-inventario-aws)** | Stock control API over an append‑only movement log, with automatic alerts when a product drops below its minimum. Containerised on EC2 against managed RDS MySQL, then load tested to find where it actually breaks. | Python · Flask · MySQL · Docker · AWS EC2/RDS | — |
 | **[Monolith → Microservices](https://github.com/oft24/luis-hdz-microservicios)** | A registration system split into two services over HTTP to test what really happens when half of it goes down. It degraded instead of failing: registrations were still accepted and stored. | JavaScript · Python · Docker Compose · AWS EC2 | — |
@@ -78,7 +78,7 @@ That's the part I find interesting, and it's where I've learned the most — aut
 ### Currently
 
 -  Building **BuldakShop** for a friend who sells Buldak products, refining the catalog, product guidance and ordering flow.
--  Shipping **Bomb It** — the next piece is moving the casino wager onto the game server so a modified client can't bypass it.
+-  Shipping **LAAutomate**, a code-first RPA platform for Windows — the desktop recorder now writes the automation for you, and the next piece is retries around failed runs.
 -  Tuning the compatibility scoring in **Matching** now that it lives in its own service.
 -  Automating enterprise processes at **H‑E‑B**, and writing Python utilities for validation and reporting around them.
 -  Working in English and Spanish.
