@@ -25,7 +25,7 @@ That's the part I find interesting, and it's where I've learned the most — aut
 | **[Inventory System on AWS](https://github.com/oft24/sistema-inventario-aws)** | Stock control API over an append‑only movement log, with automatic alerts when a product drops below its minimum. Containerised on EC2 against managed RDS MySQL, then load tested to find where it actually breaks. | Python · Flask · MySQL · Docker · AWS EC2/RDS | — |
 | **[Monolith → Microservices](https://github.com/oft24/luis-hdz-microservicios)** | A registration system split into two services over HTTP to test what really happens when half of it goes down. It degraded instead of failing: registrations were still accepted and stored. | JavaScript · Python · Docker Compose · AWS EC2 | — |
 | **Therapy Practice Website** | Client site for a private psychotherapy practice, with appointment booking backed by Supabase, WhatsApp handoff for enquiries and email notification when a slot is taken. | Python · Flask · Supabase · Pytest | — |
-| **[BuldakShop](https://github.com/oft24/Bbldak)** | Product catalog and ordering experience built for a friend who sells Buldak products. It combines a multilingual 3D showroom, detailed preparation guidance, Supabase-backed inventory, a persistent cart and demo checkout. | Python · Flask · Supabase · Vanilla JS · Vercel | [App →](https://buldakshop.vercel.app/) 
+| **[dangoko.com](https://github.com/oft24/dangoko.com)** | Product catalog and ordering experience built for a friend who sells Buldak products. It combines a multilingual 3D showroom, detailed preparation guidance, Supabase-backed inventory, a persistent cart and demo checkout. | Python · Flask · Supabase · Vanilla JS · Vercel | [App →](https://buldakshop.vercel.app/) 
 
 > My RPA work at H‑E‑B isn't public — attended and unattended automations across enterprise systems, with proper error handling, logging and retries. Happy to talk through the approach.
 
@@ -77,7 +77,7 @@ That's the part I find interesting, and it's where I've learned the most — aut
 
 ### Currently
 
--  Building **BuldakShop** for a friend who sells Buldak products, refining the catalog, product guidance and ordering flow.
+-  Building **dangoko.com** for a friend who sells Buldak products, refining the catalog, product guidance and ordering flow.
 -  Shipping **LAAutomate**, a code-first RPA platform for Windows — the desktop recorder now writes the automation for you, and the next piece is retries around failed runs.
 -  Tuning the compatibility scoring in **Matching** now that it lives in its own service.
 -  Automating enterprise processes at **H‑E‑B**, and writing Python utilities for validation and reporting around them.
